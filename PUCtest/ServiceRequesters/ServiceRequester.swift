@@ -8,6 +8,8 @@
 
 import UIKit
 
+let SPORT_API = ""
+
 class ServiceRequester {
     var sports: [Sport]?
     init() {}
