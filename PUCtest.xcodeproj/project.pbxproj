@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00B8332A218FC179007AE02C /* Private.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00B83329218FC179007AE02C /* Private.swift */; };
 		00D12BED218DD280007A665A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00D12BEC218DD280007A665A /* AppDelegate.swift */; };
 		00D12BEF218DD280007A665A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00D12BEE218DD280007A665A /* ViewController.swift */; };
 		00D12BF2218DD280007A665A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00D12BF0218DD280007A665A /* Main.storyboard */; };
@@ -21,7 +20,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		00B83329218FC179007AE02C /* Private.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Private.swift; sourceTree = "<group>"; };
 		00D12BE9218DD280007A665A /* PUCtest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PUCtest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		00D12BEC218DD280007A665A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		00D12BEE218DD280007A665A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -80,7 +78,6 @@
 			isa = PBXGroup;
 			children = (
 				00D12BEC218DD280007A665A /* AppDelegate.swift */,
-				00B83329218FC179007AE02C /* Private.swift */,
 				00D12C08218F60DF007A665A /* Views */,
 				00D12C07218F60D6007A665A /* Models */,
 				00D12C06218F60CD007A665A /* ViewControllers */,
@@ -251,7 +248,6 @@
 			files = (
 				00D12C03218F5F62007A665A /* ResultViewController.swift in Sources */,
 				00D12BEF218DD280007A665A /* ViewController.swift in Sources */,
-				00B8332A218FC179007AE02C /* Private.swift in Sources */,
 				00D12BED218DD280007A665A /* AppDelegate.swift in Sources */,
 				00D12C01218F5BD3007A665A /* Sport.swift in Sources */,
 				00D12BFF218F5B84007A665A /* ServiceRequester.swift in Sources */,
